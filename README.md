@@ -3,7 +3,7 @@
 
 ## O que é?
 > Site com um forum de games, onde administradores podem cadastrar produtos com base em plataformas, categorias e produtos. Neste site os clientes/usuarios podem eleger/indicar caracteristicas ou selos para complementar os cards de produtos com informações relevantes sobre os mesmo.
-
+> Nesse trabalho, Eu (Alysson Araújo) não fiquei muito envolvido na parte do mongodb pois não tenho conhecimento sobre BD não-relacional e não fiquei envolvido na parte de front-end.
 ## Ferramentas utilizadas:
 
 ### FrontEnd
